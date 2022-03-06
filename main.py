@@ -1,4 +1,4 @@
-"""
+"""  RCN Soft
 ------ Prime Factorization using Division Method ---
 The division method can also be used to find the prime factors of a large number
 by dividing the number by prime numbers. Follow the steps given below to find
